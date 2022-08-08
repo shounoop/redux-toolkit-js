@@ -20,7 +20,7 @@
   - Ba vấn đề làm nền tảng ra đời RTK:
 
     `
-      Configuring a Redux store is too complicated.
-      I have to add a lot of packages to get Redux to do anything useful.
-      Redux requires too much boilerplate code.
+      - Configuring a Redux store is too complicated.
+      - I have to add a lot of packages to get Redux to do anything useful.
+      - Redux requires too much boilerplate code.
     `
